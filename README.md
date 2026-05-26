@@ -502,11 +502,12 @@ x402-native GPU inference APIs that let agents pay autonomously for compute.
 
 ### Asia Intelligence & Bilingual AI
 
-AI-powered research and translation services for the Asian market — no other x402 provider covers Chinese/Japanese bilingual needs.
+AI-powered research and translation services for the Asian market — plus real-time tool APIs for AI agents.
 
-- [Hermes Asia Intelligence](https://base-worker-01.j23726919.workers.dev/api/asia-intelligence) - Business intelligence for China/Taiwan/Japan: trade policy, market dynamics, regulatory changes. $0.02 USDC/call. 日英双语输出.
+- [Hermes Asia Tool APIs](https://base-worker-01.j23726919.workers.dev) - Real-time Asian news headlines ($0.005), USD/CNY/JPY exchange rates ($0.001), and macro data ($0.01) for AI trading agents. Plus CN/JP business intelligence and bilingual document translation. 日英双语出力.
+- [Hermes Asia Intelligence](https://base-worker-01.j23726919.workers.dev/api/asia-intelligence) - CN/TW/JP trade policy, market dynamics, regulatory changes. $0.02 USDC/call.
 - [Hermes Japanese Research](https://base-worker-01.j23726919.workers.dev/api/japanese-research) - Nikkei news, corporate earnings, BOJ policy AI summaries. $0.02 USDC/call.
-- [Hermes Bilingual Bridge](https://base-worker-01.j23726919.workers.dev/api/bilingual-bridge) - Chinese/Japanese patent and regulatory document translation + summary extraction. $0.03 USDC/call.
+- [Hermes Bilingual Bridge](https://base-worker-01.j23726919.workers.dev/api/bilingual-bridge) - CN/JP patent and regulatory document translation + summary extraction. $0.03 USDC/call.
 
 
 ### Agent-to-Agent (A2A)
